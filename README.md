@@ -23,3 +23,6 @@
 
 ## Фреймворк
 - Qt
+
+## Передпоказ додатку
+<img width="1063" alt="Preview" src="https://github.com/user-attachments/assets/0f7aa182-64e6-4468-9404-caf84094d02b">
