@@ -9,7 +9,7 @@
 - IDE: Visual Studio 2022
 - Qt Creator
 
-## Залізо
+## Залізо:
 - CPU: Intel Core i7-13700HX (3.7GHz, 5.0GHz Turbo, 30MB Cache) 55W (16 ядер, 24 потоків)
 - GPU: nVidia GeForce RTX 4070 8GB (GDDR6) Boost Clock 2175MHz (TGP 140W Max GPU Power)
 - RAM: RAM 32GB DDR5 (SO-DIMM 4800MHz)
@@ -17,12 +17,13 @@
 ## Мова програмування:
 - C++14
 
-## Бібліотеки
+## Бібліотеки:
 - OpenCV
 - FFMPEG
 
-## Фреймворк
+## Фреймворк:
 - Qt
 
 ## Передпоказ додатку
 <img width="1063" alt="Preview" src="https://github.com/user-attachments/assets/0f7aa182-64e6-4468-9404-caf84094d02b">
+<img width="1063" alt="Preview2" src="https://github.com/user-attachments/assets/264b103a-b584-466f-b6e0-3466830060e3">
